@@ -203,5 +203,11 @@ main section {
 }
 .download-cv{
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
+}
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 230px;
+    margin-top: 130px;
 }
